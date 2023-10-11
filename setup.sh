@@ -15,11 +15,14 @@ wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-c
 echo "\t\tdone"
 
 # Install localtunnel
-echo "
+echo "installing localtunnel..."
 npm install localtunnel
 
-# # Run the chainlit app, and set the logfile
-# chainlit run llm.py -w &>logs.txt &
+# Run the chainlit app, and set the logfile
+echo "Running chainlit app."
+chainlit run llm.py -w &>logs.txt &
+echo "\t\tdone; check logs.txt for outputs"
 
-# # Run the app in localtunnel
-# npx localtunnel --port 8000
+# Run the app in localtunnel
+echo "Running localtunnel on port 8000"
+npx localtunnel --port 8000
