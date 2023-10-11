@@ -1,0 +1,367 @@
+[
+    {
+        "instruction": "Hi",
+        "input": "",
+        "output": "Hi there, welcome to the ComX chatbot!"
+    },
+    {
+        "instruction": "Hello",
+        "input": "",
+        "output": "Hello, welcome to the ComX chatbot!"
+    },
+    {
+        "instruction": "Hey",
+        "input": "",
+        "output": "Hey, welcome to the ComX chatbot!"
+    },
+    {
+        "instruction": "How are you",
+        "input": "",
+        "output": "I'm fine, thank you, and welcome to the ComX chatbot!"
+    },
+    {
+        "instruction": "What's up",
+        "input": "",
+        "output": "I'm cool; welcome to the ComX chatbot!"
+    },
+    {
+        "instruction": "Good morning",
+        "input": "",
+        "output": "Hello, good morning and welcome to the ComX chatbot! How can I assist you today?"
+    },
+    {
+        "instruction": "Good afternoon",
+        "input": "",
+        "output": "Hi, good afternoon and welcome to the ComX chatbot! How may I help you?"
+    },
+    {
+        "instruction": "Good evening",
+        "input": "",
+        "output": "Hey there, good evening and  welcome to the ComX chatbot! How can I be of service?"
+    },
+    {
+        "instruction": "Greetings",
+        "input": "",
+        "output": "Good to see you! Welcome to the ComX chatbot!"
+    },
+    {
+        "instruction": "Hey there",
+        "input": "",
+        "output": "Greetings! How can I assist you today?"
+    },
+    {
+        "instruction": "Hiya",
+        "input": "",
+        "output": "Hi, how may I assist you today?"
+    },
+    {
+        "instruction": "Yo",
+        "input": "",
+        "output": "Hi, how may I assist you today?"
+    },
+    {
+        "instruction": "Hi, how's it going?",
+        "input": "",
+        "output": "Hi, it's going well; how may I assist you today?"
+    },
+    {
+        "instruction": "Hi, is anyone there?",
+        "input": "",
+        "output": "Hi, yes, I'm here; how may I assist you today?"
+    },
+    {
+        "instruction": "Hey, is anyone available?",
+        "input": "",
+        "output": "Hi, how may I assist you today?"
+    },
+    {
+        "instruction": "Hello, is someone online?",
+        "input": "",
+        "output": "Hi, how may I assist you today?"
+    },
+    {
+        "instruction": "Hello, are you there?",
+        "input": "",
+        "output": "Hi, how may I assist you today?"
+    },
+    {
+        "instruction": "Are you there?",
+        "input": "",
+        "output": "Hi, how may I assist you today?"
+    },
+    {
+        "instruction": "Who is an investor?",
+        "input": "",
+        "output": "An Investor is an individual member who can buy and sell on their own account and be a part of a community. An Investor can upgrade to being a promoter or a broker-dealer once they have a registered company."
+    },
+    {
+        "instruction": "Who is a broker?",
+        "input": "",
+        "output": "A broker is an individual or an institution that buys or sells on behalf of an investor. A broker can upgrade to a broker-dealer."
+    },
+    {
+        "instruction": "Who is a broker-dealer?",
+        "input": "",
+        "output": "A broker-dealer offers brokerage services and can trade on behalf of an investor on the exchange."
+    },
+    {
+        "instruction": "Who is a dealer?",
+        "input": "",
+        "output": "A dealer is a trading member that can carry out trades only on their account."
+    },
+    {
+        "instruction": "Who are promoters?",
+        "input": "",
+        "output": "A promoter is an individual/company that wishes to act as a broker but does not have the required license. They can own a community but cannot trade on behalf of an investor."
+    },
+    {
+        "instruction": "What are commodities",
+        "input": "",
+        "output": "Commodities are anything that has value that can be bought or sold. It includes agricultural products, energy, metals."
+    },
+    {
+        "instruction": "What does Commodity Exchange mean?",
+        "input": "",
+        "output": "Commodities Exchange is an open and regulated market where people can trade in commodities in standardized contracts."
+    },
+    {
+        "instruction": "How secured is ComX?",
+        "input": "",
+        "output": "ComX is secured and regulated by the Securities and Exchange Commission (SEC), Nigeria."
+    },
+    {
+        "instruction": "What is the name of the app on Android playstore?",
+        "input": "",
+        "output": "ComX by AFEX"
+    },
+    {
+        "instruction": "What is the name of the app on Apple store?",
+        "input": "",
+        "output": "ComX by AFEX"
+    },
+    {
+        "instruction": "Who is eligible to open an account with ComX?",
+        "input": "",
+        "output": "Eligibility is open to everyone."
+    },
+    {
+        "instruction": "What do I do after signing up?",
+        "input": "",
+        "output": "Once you've signed up, you can go ahead and fund your wallet so you can buy a security."
+    },
+    {
+        "instruction": "What is a security?",
+        "input": "",
+        "output": "A security, in an agricultural commodity exchange context, is a commodity like maize, cocoa etc, that has monetary value and can be traded"
+    },
+    {
+        "instruction": "How do I fund my ComX wallet?",
+        "input": "",
+        "output": "There are basically two ways to fud your ComX wallet; either by making a transfer or using the card option."
+    },
+    {
+        "instruction": "How do I buy a commodity?",
+        "input": "",
+        "output": "You can buy a commodity by first deciding on what commodity you want to buy, and what price you want to buy at i.e check 'Trades' to see current market price for listed commodities. You can buy by either clicking on the commodity on your dashboard or on an existing trade in the market( Check 'Buy Order')."
+    },
+    {
+        "instruction": "How do I sell a commodity?",
+        "input": "",
+        "output": "You can sell a commodity by first deciding on what commodity you want to sell, what price you want to sell at and if this is the right time to sell  i.e check 'Trades' to see current market price for listed commodities. Proceed by either clicking on the commodity on your dashboard or on an existing trade in the market (Check 'Sell Order'). You must have the existing commodity in your portfolio before you can proceed to sell."
+    },
+    {
+        "instruction": "Are there fees accrued for every trade?",
+        "input": "",
+        "output": "Yes there are fees accrued to every trade. For every buy trade, 1.55% of your trade amount in total is deducted and 1.95% for every sell trade. You can find the fee breakdown here - https://bit.ly/2YbRBh8"
+    },
+    {
+        "instruction": "How do I withdraw?",
+        "input": "",
+        "output": "To withdraw, you have to make a withdrawal request with how much you want to transfer to your account and your account gets credited instantly. It is important to always input the received one-time password(OTP) during this process."
+    },
+    {
+        "instruction": "How do I make withdraws?",
+        "input": "",
+        "output": "To make withdraws, you have to make a withdrawal request with how much you want to transfer to your account and your account gets credited instantly. It is important to always input the received one-time password(OTP) during this process."
+    },
+    {
+        "instruction": "How long does it take to get funds after withdrawal?",
+        "input": "",
+        "output": "Settlements take a maximum of  T+1."
+    },
+    {
+        "instruction": "How does an order get matched?",
+        "input": "",
+        "output": "An order gets matched when two investors agree on a price by placing a corresponding buy and sell order at the same price or close price."
+    },
+    {
+        "instruction": "How do I know live price of a commodity?",
+        "input": "",
+        "output": "The live price ticker always scrolls at the bottom of the screen so you don't miss it. On the mobile app, you can also check 'Trades' under the 'Market' tab."
+    },
+    {
+        "instruction": "Can I start a conversation in a community?",
+        "input": "",
+        "output": "Yes, you can start a conversation in the communities you joined and also chat the community leader one-on-one."
+    },
+    {
+        "instruction": "What do I benefit from joining a community?",
+        "input": "",
+        "output": "The community feature helps you learn, interact and trade with other investors. As an Investor in a community, you get to make informed trading decisions with the resources that will be made available to you through the broker or promoter in charge."
+    },
+    {
+        "instruction": "What are spots?",
+        "input": "",
+        "output": "Spots are tradable instruments on the exchange that require an instant settlement."
+    },
+    {
+        "instruction": "What are OTC?",
+        "input": "",
+        "output": "Over the Counter (OTC) trade involves a transaction done through a broker or a broker-dealer, for securities listed on the exchange. "
+    },
+    {
+        "instruction": "What is Exchange Traded Commodity (ETCs)",
+        "input": "",
+        "output": "An ETC allows you to invest in a commodity basket where your return on investment is tracked based on the performance of the collective commodities in the basket."
+    },
+    {
+        "instruction": "What are input notes?",
+        "input": "",
+        "output": "Input notes are tradable fixed income instruments backed by the loan bundle collected by farmers."
+    },
+    {
+        "instruction": "What are forwards?",
+        "input": "",
+        "output": "Forward Contract allows you to put up a buy or sell bid to be bought or sold at a set price and date in the future."
+    },
+    {
+        "instruction": "What are Asset Backed Commercial Paper (ABCP)",
+        "input": "",
+        "output": "Asset-backed commercial paper is a short-term investment vehicle with a maturity date between 90 and 270days. They are usually for companies to fund short-term financing needs."
+    },
+    {
+        "instruction": "How do I join a community?",
+        "input": "",
+        "output": "You can join a community by clicking on Communities tab, looking through reviews and then decide on which community to join."
+    },
+    {
+        "instruction": "Can I create a community?",
+        "input": "",
+        "output": "Only a promoter or a broker can create a community on ComX."
+    },
+    {
+        "instruction": "What are the commodities traded on ComX?",
+        "input": "",
+        "output": "Tradable commodities like Maize, Paddy rice, Soybeans, Sorghum, Cocoa, Ginger and Cashew."
+    },
+    {
+        "instruction": "Do I get a trade confirmation message?",
+        "input": "",
+        "output": "Yes, you receive a trade confirmation message as a contract note in your email. This message is also shareable to your squad members"
+    },
+    {
+        "instruction": "How long does it take to get my capital back?",
+        "input": "",
+        "output": "You can withdraw your capital at any time that you want."
+    },
+    {
+        "instruction": "When are trading hours?",
+        "input": "",
+        "output": "An investor can trade any time of the day. There are no trading hours."
+    },
+    {
+        "instruction": "Can I cancel a buy or a sell order?",
+        "input": "",
+        "output": "A buy or a sell order can be cancelled if it hasn't been matched."
+    },
+    {
+        "instruction": "Can I cancel a matched trade?",
+        "input": "",
+        "output": "No, you can't cancel a matched trade."
+    },
+    {
+        "instruction": "How can I cancel a trade?",
+        "input": "",
+        "output": "You can cancel a trade by scrolling to \"My Order\" in \"Open Order\" then tap on the trade you want to cancel a \"Cancel\" option will pop, then click on it to Cancel."
+    },
+    {
+        "instruction": "What does \"Lien\" mean?",
+        "input": "",
+        "output": "The value in lien shows the value of commodities you have put up to buy or sell that has not been matched to you. It can also mean the value you have requested to withdraw that has not been settled."
+    },
+    {
+        "instruction": "How much can the price of commodities fall or rise?",
+        "input": "",
+        "output": "We do not decide on when commodities prices rise or fall. We do provide you with reports to help you make informed decisions."
+    },
+    {
+        "instruction": "Minimum amount to trade?",
+        "input": "",
+        "output": "The minimum amount to trade depends on the minimum value of commodities listed on the exchange."
+    },
+    {
+        "instruction": "Can I move money from my Trading account to my Bank account?",
+        "input": "",
+        "output": "Of course, you can, but you need to have put in your bank details and request a withdrawal of the money."
+    },
+    {
+        "instruction": "Tell me about AFEX.",
+        "input": "",
+        "output": "At AFEX, we harness Africa's commodities and talent to build shared wealth and prosperity. Our infrastructure and platform investments work to unlock capital to power a trust economy in Africa's commodities markets.\n\nSince inception in 2014, we have developed and deployed a viable commodities exchange model for the African market, and are on track to impact one million producers; providing services in productivity and value capture and access to finance and markets.\n\nBy deploying an efficient market system, we will facilitate trade with Africa worth over USD500 million in the next five years."
+    },
+    {
+        "instruction": "What are AFEX's milestones since inception?",
+        "input": "",
+        "output": "In 2014, AFEX begins operations in Nigeria with a focus on developing a workable warehouse receipts system.\n\nIn 2015, AFEX secures a license from the Securities and Exchange Commission (SEC) to be the first private sector-led commodity exchange in Nigeria.\n\nBy 2016, We launched the grain bank and Commodity Exchange project with West Africa Food Market (WAFM) targeting 100,000 farmers.\n\nIn the year 2017, our trading platform, powered by Nasdaq, was launched and we commenced the distribution of our weekly commodities price data.\n\nBy 2018, we piloted the flagship #CodeCashCrop event, driving interactions around technology, finance, and agriculture.\n\nBy 2019, we introduced Nigeria's first ever commodities index - the AFEX Commodities Index (ACI) tracking the changes in price for key agricultural commodities.\n\nIn 2020, we launched ComX, our digital platform for trading and investing in commodities, reaching 5000 users in 2 months.\n\n2021 came and we announced the first Asset-Backed Commercial Paper listed on an exchange in Africa.\n\nBy 2022, we officially launched AFEX Fair Trade Kenya, as part of our expansion plans into Africa to build an inclusive and sustainable market.\n\nIn 2023, AFEX Fair Trade Uganda is officially launched as a continuation of our expansion plans into Africa."
+    },
+    {
+        "instruction": "Tell me about ComX",
+        "input": "",
+        "output": "ComX is a leading company in the industry, specializing in e-commerce"
+    },
+    {
+        "instruction": "What does ComX do?",
+        "input": "",
+        "output": "ComX is known for its expertise in e-commerce"
+    },
+    {
+        "instruction": "Can you provide information about ComX?",
+        "input": "",
+        "output": "ComX offers a wide range of products/services, including e-commerce"
+    },
+    {
+        "instruction": "How can I contact your company?",
+        "input": "",
+        "output": "At ComX, we strive to provide the best customer service. You can contact our company by visiting our website at www.ComX.com and navigating to the 'Contact Us' page. There, you will find our contact information, including phone number and email address."
+    },
+    {
+        "instruction": "Tell me about your company",
+        "input": "",
+        "output": "ComX is a company that focuses on delivering high-quality products/services to its customers. Our mission is to provide innovative solutions and exceptional customer experiences. For more information, please visit our website at www.ComX.com."
+    },
+    {
+        "instruction": "What does your company do?",
+        "input": "",
+        "output": "ComX is a reputable company known for its commitment to excellence. We specialize in e-commerce and aim to provide our customers with top-notch products/services. You can find more information about our company on our website at www.ComX.com."
+    },
+    {
+        "instruction": "Can you provide me information about your company?",
+        "input": "",
+        "output": "At ComX, we are dedicated to meeting the needs of our customers. Our company specializes in e-commerce, offering a wide range of products/services. For more information or any inquiries, please feel free to reach out to us through our website at www.ComX.com."
+    },
+    {
+        "instruction": "What are the core values of ComX?",
+        "input": "",
+        "output": "ComX is a renowned company in the e-commerce industry. We are committed to delivering exceptional products/services and ensuring customer satisfaction. To contact our company, you can visit our website at www.ComX.com and find our contact details on the 'Contact Us' page."
+    },
+    {
+        "instruction": "What is the mission of ComX?",
+        "input": "",
+        "output": "At ComX, we are proud of our company's accomplishments. With a focus on e-commerce, we strive to provide top-quality products/services to our customers. To learn more about our company, you can visit our website at www.ComX.com."
+    },
+    {
+        "instruction": "Does ComX have a vision statement?",
+        "input": "",
+        "output": "ComX is a leading company that excels in the field of e-commerce. We are committed to delivering exceptional products/services and ensuring customer satisfaction. To know more about our company, please visit our website at www.ComX.com."
+    }
+]
