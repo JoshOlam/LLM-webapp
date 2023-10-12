@@ -11,7 +11,7 @@ python data_process.py
 
 # Download the model from Huggingface
 echo "Downloading LLM from huggingface"
-wget https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
+wget -O llama-2-7b-chat.ggmlv3.q8_0.bin https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 echo "\t\tdone"
 
 # Install localtunnel

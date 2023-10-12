@@ -79,7 +79,8 @@ def final_result(query):
 
     return response
 
-
+from huggingface_hub import notebook_login
+notebook_login()
 
 #>>> Chainlit webapp <<<#
 @cl.on_chat_start
